@@ -1,2 +1,2 @@
 # EKS_terraform
-IGS EKS terraform
+ EKS terraform lab
